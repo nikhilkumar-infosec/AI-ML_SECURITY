@@ -41,13 +41,7 @@ Logging and monitoring are implemented after AI processing to track requests, de
 
 ---
 
-## 5. Key Security Insight
-AI is not the application itself.  
-It is a backend dependency that must be secured like any other service.
-
----
-
-## 6. Learning Outcome
+## 5. Learning Outcome
 From this project, I learned:
 - How AI models should be placed securely within an application architecture.
 - Where to apply security controls in AI-enabled systems.
@@ -55,5 +49,5 @@ From this project, I learned:
 
 ---
 
-## 7. Conclusion
+## 6. Conclusion
 This project demonstrates secure AI integration by applying authentication, input validation, rate limiting, and logging at appropriate layers to ensure safe and controlled use of AI models.
